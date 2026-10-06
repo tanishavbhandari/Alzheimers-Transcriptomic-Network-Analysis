@@ -113,7 +113,7 @@ STRING functional enrichment identified several neuronal and synaptic categories
 
 The complete analysis and results are available in the PDF report.
 
-[View the full analysis report](./Transcriptomic%20and%20Network%20Analysis%20of%20Alzheimer's%20Disease%20Hippocampal%20Gene%20Expression.pdf)
+[Download the full analysis report](./Transcriptomic%20and%20Network%20Analysis%20of%20Alzheimer's%20Disease%20Hippocampal%20Gene%20Expression.pdf)
 
 ## Limitations
 
